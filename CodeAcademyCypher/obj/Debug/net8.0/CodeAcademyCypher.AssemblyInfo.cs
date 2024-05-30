@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeAcademyCypher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43e829b33f06fc8453692950d067ad690d3ab9d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeAcademyCypher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeAcademyCypher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

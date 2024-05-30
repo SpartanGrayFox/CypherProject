@@ -15,9 +15,9 @@ namespace CaesarCipher
       { char Letters = secretMessage[i];
         int lettersIndex = Array.IndexOf(alphabet, Letters);
         char newLetter = alphabet[(lettersIndex + 3) % 26];
+        encryptedMessage[i] = newLetter;
         string encryptedMessageS = String.Join("", encryptedMessage);
         Console.WriteLine(encryptedMessageS);
-
 
 
       }
@@ -26,3 +26,6 @@ namespace CaesarCipher
     }
   }
 }
+
+
+

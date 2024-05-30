@@ -1,0 +1,15 @@
+/Users/andyposada/C#PROJECTS/CodeCypher/CodeAcademyCypher/bin/Debug/net8.0/CodeAcademyCypher
+/Users/andyposada/C#PROJECTS/CodeCypher/CodeAcademyCypher/bin/Debug/net8.0/CodeAcademyCypher.deps.json
+/Users/andyposada/C#PROJECTS/CodeCypher/CodeAcademyCypher/bin/Debug/net8.0/CodeAcademyCypher.runtimeconfig.json
+/Users/andyposada/C#PROJECTS/CodeCypher/CodeAcademyCypher/bin/Debug/net8.0/CodeAcademyCypher.dll
+/Users/andyposada/C#PROJECTS/CodeCypher/CodeAcademyCypher/bin/Debug/net8.0/CodeAcademyCypher.pdb
+/Users/andyposada/C#PROJECTS/CodeCypher/CodeAcademyCypher/obj/Debug/net8.0/CodeAcademyCypher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyposada/C#PROJECTS/CodeCypher/CodeAcademyCypher/obj/Debug/net8.0/CodeAcademyCypher.AssemblyInfoInputs.cache
+/Users/andyposada/C#PROJECTS/CodeCypher/CodeAcademyCypher/obj/Debug/net8.0/CodeAcademyCypher.AssemblyInfo.cs
+/Users/andyposada/C#PROJECTS/CodeCypher/CodeAcademyCypher/obj/Debug/net8.0/CodeAcademyCypher.csproj.CoreCompileInputs.cache
+/Users/andyposada/C#PROJECTS/CodeCypher/CodeAcademyCypher/obj/Debug/net8.0/CodeAcademyCypher.sourcelink.json
+/Users/andyposada/C#PROJECTS/CodeCypher/CodeAcademyCypher/obj/Debug/net8.0/CodeAcademyCypher.dll
+/Users/andyposada/C#PROJECTS/CodeCypher/CodeAcademyCypher/obj/Debug/net8.0/refint/CodeAcademyCypher.dll
+/Users/andyposada/C#PROJECTS/CodeCypher/CodeAcademyCypher/obj/Debug/net8.0/CodeAcademyCypher.pdb
+/Users/andyposada/C#PROJECTS/CodeCypher/CodeAcademyCypher/obj/Debug/net8.0/CodeAcademyCypher.genruntimeconfig.cache
+/Users/andyposada/C#PROJECTS/CodeCypher/CodeAcademyCypher/obj/Debug/net8.0/ref/CodeAcademyCypher.dll
